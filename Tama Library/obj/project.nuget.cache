@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "96NCwaPG7IVddzxH+VPx0tHjYppAxxpRCNP3qbUfkGuVt35ZSliaI4dVlnC8zdO/td2HDyetHk6rrXz3uWzflg==",
+  "success": true,
+  "projectFilePath": "Z:\\Projekte\\Skyverse_Dragon\\CHSI\\SW-Release\\Delivery_0001\\Tama\\Tama Library\\Tama Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\mcsherry.semanticversioning\\1.2.0\\mcsherry.semanticversioning.1.2.0.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.8\\microsoft.codeanalysis.fxcopanalyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.8\\microsoft.codeanalysis.versioncheckanalyzer.2.9.8.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.8\\microsoft.codequality.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.8\\microsoft.netcore.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\microsoft.netframework.analyzers\\2.9.8\\microsoft.netframework.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\quickgraph\\3.6.61119.7\\quickgraph.3.6.61119.7.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.113.3\\stub.system.data.sqlite.core.netframework.1.0.113.3.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\triamec.common\\7.3.5\\triamec.common.7.3.5.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\triamec.tam.core\\12.0.1\\triamec.tam.core.12.0.1.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\triamec.tam.trialink\\7.14.2\\triamec.tam.trialink.7.14.2.nupkg.sha512",
+    "C:\\Users\\SROCHSM\\.nuget\\packages\\triamec.tools.tamacompiler\\5.10.5\\triamec.tools.tamacompiler.5.10.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "\"Tama Library\" ist von \"Triamec.Tam.TriaLink (>= 7.14.1)\" abhängig, \"Triamec.Tam.TriaLink 7.14.1\" wurde jedoch nicht gefunden. Die ungefähre höchste Übereinstimmung von \"Triamec.Tam.TriaLink 7.14.2\" wurde aufgelöst.",
+      "libraryId": "Triamec.Tam.TriaLink",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

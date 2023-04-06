@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Projekte\\Skyverse_Dragon\\CHSI\\SW-Release\\Delivery_0001\\Tama\\Tama Library\\Tama Library.csproj": {}
+  },
+  "projects": {
+    "Z:\\Projekte\\Skyverse_Dragon\\CHSI\\SW-Release\\Delivery_0001\\Tama\\Tama Library\\Tama Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Projekte\\Skyverse_Dragon\\CHSI\\SW-Release\\Delivery_0001\\Tama\\Tama Library\\Tama Library.csproj",
+        "projectName": "Tama Library",
+        "projectPath": "Z:\\Projekte\\Skyverse_Dragon\\CHSI\\SW-Release\\Delivery_0001\\Tama\\Tama Library\\Tama Library.csproj",
+        "packagesPath": "C:\\Users\\SROCHSM\\.nuget\\packages\\",
+        "outputPath": "Z:\\Projekte\\Skyverse_Dragon\\CHSI\\SW-Release\\Delivery_0001\\Tama\\Tama Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\SROCHSM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Triamec.Tam.TriaLink": {
+              "target": "Package",
+              "version": "[7.14.1, )"
+            },
+            "Triamec.Tools.TamaCompiler": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.10.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

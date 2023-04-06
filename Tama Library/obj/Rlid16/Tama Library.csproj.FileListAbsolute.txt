@@ -1,0 +1,48 @@
+C:\git\Skyverse_Dragon\Tama\Tama Library\obj\Rlid16\Tama Library.csproj.AssemblyReference.cache
+C:\git\Skyverse_Dragon\Tama\Tama Library\obj\Rlid16\Tama Library.csproj.CoreCompileInputs.cache
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Triamec.Common.pdb
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tam.pdb
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tam.XmlSerializers.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Triamec.Firmware.pdb
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Triamec.Firmware.XmlSerializers.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\TriaLink.PCI.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\TriaLink.PCI.pdb
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\TriaLink.USB.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\TriaLink.USB.pdb
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.pdb
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.StandaloneHomingAndEndswitches.tama
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.YTheta.tama
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.XGantry.tama
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.Homing16.tama
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.ZDualloop.tama
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.StandaloneHomingAndEndswitches.asm
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.YTheta.asm
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.XGantry.asm
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.Homing16.asm
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tama Library.ZDualloop.asm
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Resources\firmware.sqlite
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\McSherry.SemanticVersioning.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\QuickGraph.Data.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\QuickGraph.Graphviz.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\QuickGraph.Serialization.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\QuickGraph.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\System.Data.SQLite.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\System.ValueTuple.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Triamec.Common.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Tam.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Triamec.Database.Plain.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\Triamec.Firmware.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\RegisterLayout.16.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\RegisterLayout.17.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\RegisterLayout.19.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\RegisterLayout.4.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\RegisterLayout.5.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\RegisterLayout.6.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\tama.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\bin\Rlid16\tama.xml
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\obj\Rlid16\Tama Library.csproj.AssemblyReference.cache
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\obj\Rlid16\Tama Library.csproj.CoreCompileInputs.cache
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\obj\Rlid16\Tama Library.csproj.CopyComplete
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\obj\Rlid16\Tama Library.dll
+Z:\Projekte\Skyverse_Dragon\CHSI\SW-Release\Delivery_0001\Tama\Tama Library\obj\Rlid16\Tama Library.pdb
